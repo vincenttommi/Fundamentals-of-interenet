@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="t d">
+<title id="t">Community environmental action</title><desc id="d">Illustration of volunteers planting a young tree in a community green space.</desc>
+<rect width="1200" height="650" fill="#edf5e9"/><circle cx="980" cy="130" r="75" fill="#f3d879"/>
+<path d="M0 430Q300 350 600 430T1200 420V650H0Z" fill="#b8d5a5"/>
+<path d="M610 445V220" stroke="#76543b" stroke-width="38" stroke-linecap="round"/><path d="M610 270Q440 240 430 110Q585 75 610 220Q650 65 815 90Q820 245 610 270" fill="#4d8a55"/>
+<circle cx="300" cy="285" r="58" fill="#8b5538"/><path d="M245 280q55-90 110 0" fill="#202c28"/><path d="M240 345q60-45 120 0l35 110H205Z" fill="#d78d43"/><path d="M345 385l125 75" stroke="#8b5538" stroke-width="20" stroke-linecap="round"/>
+<circle cx="870" cy="300" r="55" fill="#a96b49"/><path d="M815 292q55-90 110 0" fill="#202c28"/><path d="M810 360q60-45 120 0l35 100H775Z" fill="#4b7890"/><path d="M815 390l-120 65" stroke="#a96b49" stroke-width="20" stroke-linecap="round"/>
+<path d="M480 465q130-80 260 0" fill="none" stroke="#8b6745" stroke-width="25" stroke-linecap="round"/>
+<g fill="#4d8a55"><path d="M100 520q40-90 80 0z"/><path d="M1030 530q45-100 90 0z"/></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="t d">
+<title id="t">Community members learning together</title><desc id="d">Illustration of a facilitator and learners gathered around a table with books.</desc>
+<rect width="1200" height="650" fill="#e9f4ef"/><circle cx="1010" cy="120" r="95" fill="#c9e2d4"/>
+<path d="M0 510 Q300 430 600 510 T1200 490 V650 H0Z" fill="#b7d8c4"/>
+<rect x="250" y="360" width="700" height="32" rx="16" fill="#245b45"/><path d="M310 390v160m580-160v160" stroke="#245b45" stroke-width="24"/>
+<circle cx="420" cy="220" r="70" fill="#8b5538"/><path d="M350 214q70-115 140 0" fill="#202c28"/><path d="M350 305q70-55 140 0l45 105H305Z" fill="#e5a34b"/>
+<circle cx="770" cy="230" r="65" fill="#6e432e"/><path d="M705 218q65-90 130 0" fill="#202c28"/><path d="M700 310q70-50 140 0l40 95H660Z" fill="#3c7890"/>
+<circle cx="590" cy="260" r="58" fill="#a96b49"/><path d="M535 250q55-90 110 0" fill="#252b28"/><path d="M530 325q60-45 120 0l35 75H495Z" fill="#6b8b55"/>
+<rect x="490" y="340" width="220" height="18" rx="9" fill="#fff"/><rect x="530" y="300" width="70" height="42" rx="4" fill="#f6d36e"/><rect x="610" y="315" width="62" height="27" rx="4" fill="#fff"/>
+<g fill="#245b45"><circle cx="150" cy="430" r="35"/><circle cx="1080" cy="410" r="40"/></g><g stroke="#245b45" stroke-width="12"><path d="M150 465v100m-40-55h80M1080 450v120m-45-65h90"/></g>
+</svg>
